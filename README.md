@@ -1,4 +1,4 @@
-<center>*"What the eff is this? Is this.... Binary? I can't effing read Binary!"*<br>
+<center>"What the eff is this? Is this.... Binary? I can't effing read Binary!"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Vicar Maximillian DeSoto</center>
 
 # The Outer Worlds conversation decoder
